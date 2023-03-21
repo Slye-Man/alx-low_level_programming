@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - print all single digit numbers of base 10 without using char
  *
  * Return: 0

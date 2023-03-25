@@ -13,7 +13,7 @@ void more_numbers(void)
 
 	for (row = 1; row < 11; row++)
 	{
-		for (count = 0; count <15; count++)
+		for (count = 0; count < 15; count++)
 		{
 			num = count;
 			if (count > 9)

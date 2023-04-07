@@ -6,7 +6,7 @@
  * Return: int
  */
 
-int factorial(int n)
+int factorial(int n);
 {
 	if (n < 0)		/*error -1 if number is negative*/
 		return (-1);
